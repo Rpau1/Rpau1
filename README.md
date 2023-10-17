@@ -9,7 +9,7 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Rpau1/Azure-Sentinel-SIEM-)
  
 - <b>Active Directory</b>
-  - AD Configuration and creating bulk users
+  - [AD Configuration and creating bulk users](https://github.com/Rpau1/Active-Directory-configuration-and-users/blob/main/README.md)
 
    
 
