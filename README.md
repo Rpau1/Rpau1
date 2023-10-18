@@ -2,13 +2,13 @@
 ">Cybersecurity Professional</a>  
   
   
-  <h2>👨‍💻 Cybersecurity Homelabs and projects:</h2>
+  <h2>👨‍💻  Homelabs and projects:</h2>
 
 
-- <b> SOC Analyst</b>
-  - [SIEM (Azure sentinel)](https://github.com/Rpau1/Azure-Sentinel-SIEM-)
+- <b> SOC Analyst projects</b>
+  - [SIEM (Azure Sentinel)](https://github.com/Rpau1/Azure-Sentinel-SIEM-)
  
-- <b> System Administration </b>
+- <b> System Administration projects </b>
   - [Active Directory Configuration and creating bulk users](https://github.com/Rpau1/Active-Directory-configuration-and-users/blob/main/README.md)
   - Assigning group policy objectives(GPO) to user accounts.
 
