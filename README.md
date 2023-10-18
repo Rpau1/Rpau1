@@ -5,10 +5,10 @@
   <h2>👨‍💻 Cybersecurity Homelabs and projects:</h2>
 
 
-- <b>SIEM(Azure Sentinel)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Rpau1/Azure-Sentinel-SIEM-)
+- <b> SOC Analyst</b>
+  - [SIEM (Azure sentinel)](https://github.com/Rpau1/Azure-Sentinel-SIEM-)
  
-- <b>System Administration </b>
+- <b> System Administration </b>
   - [Active Directory Configuration and creating bulk users](https://github.com/Rpau1/Active-Directory-configuration-and-users/blob/main/README.md)
   - Assigning group policy objectives(GPO) to user accounts.
 
