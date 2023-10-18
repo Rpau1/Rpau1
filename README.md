@@ -10,7 +10,7 @@
  
 - <b> System Administration projects </b>
   - [Active Directory Configuration and creating bulk users](https://github.com/Rpau1/Active-Directory-configuration-and-users/blob/main/README.md)
-  - Assigning group policy objectives(GPO) to user accounts.
+  - [Assigning group policy objectives(GPO) to user accounts](https://github.com/Rpau1/Assigning-group-policy-objectives-GPO-to-user-accounts./blob/main/README.md)
 
    
 
