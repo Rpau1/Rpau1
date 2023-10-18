@@ -18,6 +18,8 @@
 
 - [CompTIA Security+]
 - [Amazon AWS Certified Cloud Practitioner]
+- [CompTIA Network+] (pending)
+- [CompTIA CYSA+] (pending)
 
 
 
