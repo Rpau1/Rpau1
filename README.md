@@ -2,7 +2,7 @@
 ">Cybersecurity Professional</a>  
   
   
-  <h2>👨‍💻  Homelabs and projects:</h2>
+  <h2>👨‍💻 Cybersecurity Homelabs and projects:</h2>
 
 
 - <b> SOC Analyst projects</b>
