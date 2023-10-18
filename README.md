@@ -1,4 +1,4 @@
-<h1>Hi, I'm paul!!!<br/><a href="https://www.linkedin.com/in/rudrojoyti-rj-paul-9486351b5
+<h1>Hi, I'm Rudrojoyti paul!!!<br/><a href="https://www.linkedin.com/in/rudrojoyti-rj-paul-9486351b5
 ">Cybersecurity Professional</a>  
   
   
@@ -8,8 +8,9 @@
 - <b>SIEM(Azure Sentinel)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Rpau1/Azure-Sentinel-SIEM-)
  
-- <b>Active Directory</b>
-  - [AD Configuration and creating bulk users](https://github.com/Rpau1/Active-Directory-configuration-and-users/blob/main/README.md)
+- <b>System Administration </b>
+  - [Active Directory Configuration and creating bulk users](https://github.com/Rpau1/Active-Directory-configuration-and-users/blob/main/README.md)
+  - Assigning group policy objectives(GPO) to user accounts.
 
    
 
