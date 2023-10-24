@@ -7,7 +7,7 @@
 
 - <b> SOC Analyst projects</b>
   - [SIEM (Azure Sentinel)](https://github.com/Rpau1/Azure-Sentinel-SIEM-)
-  - [Vulnerability Management Project (Open Vas)] 
+  - [Vulnerability Management Project (Open Vas)](https://github.com/Rpau1/Vulnerability-Management-Project-Open-Vas-/blob/main/README.md)
  
 - <b> System Administration projects </b>
   - [Active Directory Configuration and creating bulk users](https://github.com/Rpau1/Active-Directory-configuration-and-users/blob/main/README.md)
